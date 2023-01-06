@@ -29,7 +29,8 @@ The project goal is to build a Yelp-like clone which enables:
 * Interacting with the Yelp API
 
 ## Running App ##
-#### `npm start` ####
+Run `npm install` to install the dependencies of this project and build the front-end application. Once it has finished installing, you can run `npm run start` to begin your server.
+
 Also remember to add API key in Yelp.js
 
 ## Source ##
