@@ -39,4 +39,4 @@ Also remember to add API key in Yelp.js
 <img width="1229" alt="Screen Shot 2023-01-05 at 5 24 46 PM" src="https://user-images.githubusercontent.com/59709289/210910908-2a3cd7ea-2dad-46d7-bad6-0d0873b5b62e.png">
 
 ## Project Status ##
-In-progress.
+Completed.
